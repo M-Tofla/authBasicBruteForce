@@ -1,11 +1,11 @@
 # authBasicBruteForce
 
-Brute Force Authorization: Basic on Headers
+Brute Force Authorization: Basic on Headers that using base64encoded
 
 
 # Running
 
-pip install base64
-pip install requests
-
+<p>pip install base64</p>
+<p>pip install requests</p>
+<br />
 python authBasicBF.py
