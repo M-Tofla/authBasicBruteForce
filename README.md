@@ -5,7 +5,7 @@ Brute Force Authorization: Basic on Headers that using base64encoded
 
 # Running
 
-<p>pip install base64</p>
-<p>pip install requests</p>
+<p>pip install base64
+<p>pip install requests
 <br />
-python authBasicBF.py
+python3 authBasicBF.py
